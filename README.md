@@ -2,7 +2,7 @@
 
 데모 바로가기: 
 
-- [https://study-contentful-nextjs.eunha0ne.vercel.app/][https://study-contentful-nextjs.eunha0ne.vercel.app/]
+- [https://study-contentful-nextjs.eunha0ne.vercel.app/](https://study-contentful-nextjs.eunha0ne.vercel.app/)
 
 ## 참고
 
